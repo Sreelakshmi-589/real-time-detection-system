@@ -1,6 +1,6 @@
 import cv2
 
-name = 'Raashi Trisholiya' 
+name = 'Sreelakshmi Krishnakumar' 
 
 cam = cv2.VideoCapture(0)
 
